@@ -1,8 +1,13 @@
 [package]
 name = "to_bytes"
 version = "0.1.0"
-authors = ["Package <Aditrc@outlook.com>"]
+description = "Serialize values into memory bytes"
+authors = ["MeowType", "Package <Aditrc@outlook.com>"]
 edition = "2018"
+license = "MIT"
+readme = "../README.md"
+repository = "https://github.com/MeowType/to_bytes"
+keywords = ["to_bytes", "bytes", "memory", "serialize"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
